@@ -1,3 +1,4 @@
+const projectName = 'choropleth';
 // define body
 var body = d3.select('body');
 
