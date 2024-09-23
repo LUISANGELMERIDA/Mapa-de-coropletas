@@ -24,7 +24,7 @@ body {
 
 .states {
   fill: none;
-  stroke: #e99d9d;
+  stroke: #eb4c4c;
   stroke-linejoin: round;
 }
 
@@ -32,7 +32,7 @@ div.tooltip {
   position: absolute;
   padding: 10px;
   font: 12px Arial;
-  background: rgba(214, 214, 67, 0.9);
+  background: rgba(245, 245, 27, 0.9);
   box-shadow: 1px 1px 10px rgba(134, 55, 55, 0.6);
   border: 0px;
   border-radius: 2px;
